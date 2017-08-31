@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigrationTool", "MigrationTool\MigrationTool.csproj", "{B8E6942C-B424-4F8B-B290-07ED56F58464}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KitchenService.Db.Sqlite", "KitchenService.Db.Sqlite\KitchenService.Db.Sqlite.csproj", "{BE0E8BC5-D365-4A70-BA27-FD0B9A754AE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KitchenServiceV2.Db.Mongo", "KitchenServiceV2.Db.Mongo\KitchenServiceV2.Db.Mongo.csproj", "{95CB3D67-1EB3-48B9-9CA3-DD558153617B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E6942C-B424-4F8B-B290-07ED56F58464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E6942C-B424-4F8B-B290-07ED56F58464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E6942C-B424-4F8B-B290-07ED56F58464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E6942C-B424-4F8B-B290-07ED56F58464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0E8BC5-D365-4A70-BA27-FD0B9A754AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0E8BC5-D365-4A70-BA27-FD0B9A754AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0E8BC5-D365-4A70-BA27-FD0B9A754AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0E8BC5-D365-4A70-BA27-FD0B9A754AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CB3D67-1EB3-48B9-9CA3-DD558153617B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CB3D67-1EB3-48B9-9CA3-DD558153617B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CB3D67-1EB3-48B9-9CA3-DD558153617B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CB3D67-1EB3-48B9-9CA3-DD558153617B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBD8028-8746-4E89-B0D9-1EAB92A16688}
+	EndGlobalSection
+EndGlobal

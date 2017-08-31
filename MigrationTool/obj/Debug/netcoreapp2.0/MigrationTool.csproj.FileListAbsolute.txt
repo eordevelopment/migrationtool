@@ -1,0 +1,16 @@
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\MigrationTool.deps.json
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\MigrationTool.runtimeconfig.json
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\MigrationTool.runtimeconfig.dev.json
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\MigrationTool.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\MigrationTool.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.csprojResolveAssemblyReference.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.csproj.CoreCompileInputs.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.AssemblyInfoInputs.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.AssemblyInfo.cs
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\obj\Debug\netcoreapp2.0\MigrationTool.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\MigrationTool\bin\Debug\netcoreapp2.0\appsettings.json

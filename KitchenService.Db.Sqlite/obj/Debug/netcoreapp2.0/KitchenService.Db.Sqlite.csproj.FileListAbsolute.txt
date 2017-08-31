@@ -1,0 +1,9 @@
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\bin\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.deps.json
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\bin\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.dll
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\bin\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.pdb
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.csprojResolveAssemblyReference.cache
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.AssemblyInfoInputs.cache
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.AssemblyInfo.cs
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.dll
+C:\Users\eoriordan\Documents\dev\KitchenService\KitchenService.Db.Sqlite\obj\Debug\netcoreapp2.0\KitchenService.Db.Sqlite.pdb

@@ -1,0 +1,17 @@
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.deps.json
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.dll
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.pdb
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.AssemblyInfoInputs.cache
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.AssemblyInfo.cs
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.dll
+C:\Users\eoriordan\Documents\dev\KitchenServiceV2\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.deps.json
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\bin\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.pdb
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.csprojResolveAssemblyReference.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.AssemblyInfoInputs.cache
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.AssemblyInfo.cs
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.dll
+C:\Users\eoriordan\Documents\Visual Studio 2017\Projects\MigrationTool\KitchenServiceV2.Db.Mongo\obj\Debug\netcoreapp2.0\KitchenServiceV2.Db.Mongo.pdb
