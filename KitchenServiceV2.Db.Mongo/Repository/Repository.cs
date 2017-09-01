@@ -21,6 +21,21 @@ namespace KitchenServiceV2.Db.Mongo.Repository
 
         public string CollectionName { get; }
 
+        public async Task<List<TEntity>> GetAll()
+        {
+            var result = new List<TEntity>();
+            using (var cursor = await this.Collection.FindAsync(new BsonDocument()))
+            {
+                while (await cursor.MoveNextAsync())
+                {
+                    var batch = cursor.Current;
+                    result.AddRange(batch);
+                }
+            }
+
+            return result;
+        }
+
         public Task<List<TEntity>> GetAll(string userToken)
         {
             return this.Collection.Find(p => p.UserToken == userToken).ToListAsync();
